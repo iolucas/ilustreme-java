@@ -1,0 +1,9 @@
+applications:
+- path: target/TomcatHelloWorldApp.war
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ilustreme
+  host: ilustreme
+  disk_quota: 1024M
+  buildpack: java_buildpack

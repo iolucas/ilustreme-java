@@ -1,0 +1,4 @@
+net\mybluemix\servlet\SimpleServlet.class
+net\mybluemix\servlet\PersonFace.class
+net\mybluemix\servlet\FaceFeatures.class
+net\mybluemix\servlet\PointGenerator.class
